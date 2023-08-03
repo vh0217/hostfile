@@ -1,0 +1,1 @@
+sudo /Library/NessusAgent/run/sbin/nessuscli agent link --key=968489033e917b7740bf63b5d4a2b8776f9273ffb4975cfa3f5d0b1aa6a4fa62 --host=sensor.cloud.tenable.com --port=443
